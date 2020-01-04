@@ -1,6 +1,6 @@
 ## Location
 
-* Biti editor, Vietnam
+* Ho Chi Minh, Vietnam
 * Remote
 
 ## Salary Expectation
